@@ -1,0 +1,18 @@
+
+body {
+    background: linear-gradient(220deg, #FC466B 0%, #3F5EFB 100%);
+    background-size: cover;
+    min-height: 100vh;
+    font-family: sans-serif;
+    color: #ffd;
+}
+
+div {
+    width: 600px;
+    position: absolute;
+    right: 20%;
+}
+
+div img {
+    width: 100%;
+}
